@@ -49,4 +49,19 @@ button span  {
     margin-bottom: 5px;
     
   }
- 
+ .input-div{
+   display:flex;
+ }
+ .close{
+   margin-left:-25px;
+   margin-top:25px;
+
+ }
+ .close:hover{
+   cursor: pointer;
+ }
+ .close h1{
+   margin:0px;
+
+   padding:5px;
+ }

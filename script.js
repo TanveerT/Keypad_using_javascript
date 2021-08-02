@@ -73,3 +73,8 @@ var keys = {
   '#':['#'],
 };
 
+$('.close').click(function(){
+
+      var $result = $('#result');
+      $result.val(" ");
+})
